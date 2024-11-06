@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asser Samir Elshiekh</h1>
-<h3 align="center">Aspiring Backend Developer | IT Student | Gamer & Anime Fan</h3>
+<h3 align="center">Aspiring Backend Developer | IT Student | Video Editor | Gamer & Anime Fan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=assersamir03&label=Profile%20views&color=0e75b6&style=flat" alt="assersamir03" /> </p>
 
@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/assersamirsh03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="assersamirsh03" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/assersamir03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="assersamir03" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/asser-samir-b0150a234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="assersamir03" height="30" width="40" /></a>
 <a href="https://discord.gg/peNzDJ8D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="assersamir03" height="30" width="40" /></a>
 </p>
 
