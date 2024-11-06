@@ -23,8 +23,7 @@
 <p align="left">
 <a href="https://twitter.com/assersamirsh03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="assersamirsh03" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/assersamir03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="assersamir03" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/assersamir03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="assersamir03" height="30" width="40" /></a>
-<a href="https://discord.gg/assersamir03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="assersamir03" height="30" width="40" /></a>
+<a href="https://discord.gg/peNzDJ8D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="assersamir03" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
